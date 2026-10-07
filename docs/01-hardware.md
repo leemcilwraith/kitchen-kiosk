@@ -103,7 +103,7 @@ The automation is in [`automations/screen-power-pir.yaml`](../automations/screen
 
 ## Power
 
-The kiosk PC and screen need two sockets near the wall. I added a fused connection unit off an existing spur, feeding a short radial to two double sockets inside the boxing.
+The kiosk PC and screen need two sockets near the wall. I added a fused connection unit off an existing spur, feeding a short radial to two double sockets which sit inside the boxing (its a little snug).
 
 In the UK, you can't take a spur off an existing spur under BS 7671, which is why the fused connection unit is there. **If you're not confident with mains wiring, get an electrician to do this part.**
 
