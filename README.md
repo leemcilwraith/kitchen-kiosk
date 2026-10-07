@@ -1,11 +1,9 @@
 # kitchen-kiosk
 Skylight / Cozyla clone with Home Assistant functionality. 
 
-# Kitchen Skylight - a DIY Home Assistant family calendar and smart home panel
-
 ![The finished panel](images/frame-finished.jpg)
 
-My wife wanted a Skylight calendar for the kitchen. So naturally I built one instead.
+My wife wanted a Skylight / cozyla calendar for the kitchen. So I built one instead.
 
 This is a wall-mounted 21.5" touchscreen in a custom MDF frame, running a Home Assistant dashboard. It does what a Skylight does - family calendars, meal planning and chores - and doubles up as a control panel for the rest of the house.
 
